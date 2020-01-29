@@ -1,0 +1,20 @@
+arc-theme_20180114-1_all.deb
+paper-icon-theme_1.5.719-201806241659~daily~ubuntu18.04.1_all.deb
+net.downloadhelper.coapp-1.2.4-1_amd64.deb
+libpng12-0_1.2.50-2+deb8u3_amd64.deb
+--------------------
+viber.deb {edit "control" => libcurl3 to libcurl4}
+libssl1.0.0_1.0.1t-1+deb8u9_amd64.deb
+--------------------
+Gens_2.16.7_i386.deb (gens:i386)
+libpng12-0_1.2.50-2+deb8u3_i386.deb (libpng12-0:i386)
+--------------------
+python-imaging_4.0.0-4_all.deb
+--------------------
+skypeforlinux-64.deb 
+--------------------
+vagrant_2.2.4_x86_64.deb
+--------------------
+Etcher — usb iso
+gvfs-backends (package) — for mtp devices (smartphone)
+xtightvncviewer — for ASAv (GNS3)

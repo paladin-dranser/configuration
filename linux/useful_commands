@@ -1,0 +1,6 @@
+dpkg-reconfigure console-setup // console cyrillic
+
+root# echo "blacklist pcspkr" > /etc/modprobe.d/nobeep.conf // don't beep
+
+/usr/share/lightdm/lightdm.conf.d/01_*.conf => greeter-hide-users=false
+sudo sed 's/\(greeter-hide-users=\)true/\1false/' /usr/share/lightdm/lightdm.conf.d/01_debian.conf 
