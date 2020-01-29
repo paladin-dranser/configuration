@@ -1,0 +1,9 @@
+browser.tabs.closeWindowWithLastTab = false //close the last tab
+browser.sessionhistory.max_entries = 10 //max back/forward
+browser.search.openintab = true // search bar -> new tab
+layout.spellcheckDefault = 2 // enable spell-check for all text boxes
+
+browser.tabs.remote.autostart = true
+extensions.e10sBlockedByAddons = false
+
+security.dialog_enable_delay = 0 // disable the delay when installing new extensions
