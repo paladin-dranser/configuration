@@ -18,7 +18,7 @@ wget --output-document="${FIREFOX_ARCHIVE}" \
     'https://download.mozilla.org/?product=firefox-latest&os=linux64&lang=en-GB'
 
 if [ $? -ne 0 ]; then
-    echo 'ERROR: The firefox archive can not be downloaded! Existing...'
+    echo 'ERROR: The firefox archive can not be downloaded! Exiting...'
     exit 1
 fi
 
