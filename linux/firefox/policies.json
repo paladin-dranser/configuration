@@ -1,0 +1,12 @@
+{
+  "policies": {
+    "Extensions": {
+      "Locked":  ["leechblockng@proginosko.com"]
+    },
+    "ExtensionSettings": {
+      "leechblockng@proginosko.com": {
+	"private_browsing": true
+      }
+    }
+  }
+}
